@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dogani
-- 👀 I’m interested in Change
+- 👀 I’m interested in Change and Development
 - 🌱 I’m currently learning to Code 
 - 💞️ I’m looking to collaborate on Learning and Learning and Executing
 - 📫 How to reach me doganipeter@gmail.com | +255719469680
