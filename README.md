@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Dogani
-- 👀 I’m interested in Change and Development
+- 💪 I’m interested In Software Development.
+- 👀 Change and Development
 - 🌱 Growth
 - 💞️ I’m looking to collaborate on Learning and Executing
 - 📫 How to reach me doganipeter@gmail.com | +255719469680
