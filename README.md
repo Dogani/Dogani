@@ -117,7 +117,7 @@ Registered Professional Engineer with the Engineers Registration Board.
 
 ---
 
-## Currently Developing
+## 🗄️ Currently Developing
 
 - Advanced software architecture
 - Microservices and distributed systems
@@ -129,7 +129,7 @@ Registered Professional Engineer with the Engineers Registration Board.
 
 ---
 
-## Public Evidence
+## 📢 Public Evidence
 
 Portfolio and public-safe engineering work:
 
