@@ -24,7 +24,7 @@ I work across software development, telecommunications systems, enterprise appli
 
 ## Current Work
 
-** 💼 Systems & Applications Development**
+💼 ** Systems & Applications Development**
 
 Working on enterprise software development, systems integration, process automation, application maintenance, technical support and software delivery.
 
@@ -49,7 +49,7 @@ Below are areas I can demonstrate using synthetic, personal, open-source or publ
 |---|---|
 | Systems Integration | REST / SOAP API integration examples |
 | Backend Engineering | Node.js and Express.js API projects |
-| Full-Stack Development | React / Angular + backend applications |
+| Full-Stack Development | React / Angular, .NET + backend applications |
 | Databases | PostgreSQL / SQL Server schema and query examples |
 | Automation | Workflow and business-process automation samples |
 | Payments | Synthetic payment-integration architecture |
@@ -143,8 +143,8 @@ Public repositories contain only personal, synthetic, open-source or publicly av
 
 ## Connect
 
-- **GitHub:** [github.com/Dogani](https://github.com/Dogani)
-- **Email:** doganipeter@gmail.com
+- **GitHub:**   [github.com/Dogani](https://github.com/Dogani)
+- **Email:**    doganipeter@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/peter-dogani-673883140/
 
 Open to conversations about software engineering, systems integration, enterprise platforms, telecommunications technology, APIs, databases and digital transformation.
