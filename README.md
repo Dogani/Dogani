@@ -1,4 +1,4 @@
-# Peter Dogani
+👷‍♂️👨‍💻 # Peter Dogani
 
 **Professional Engineer | Software Engineer | Full-Stack Developer | Systems Integration Specialist**
 
@@ -9,7 +9,7 @@ I work across software development, telecommunications systems, enterprise appli
 
 ---
 
-## Focus
+🧘‍♂️ ## Focus
 
 - **Software Engineering** — enterprise applications, backend systems, full-stack development
 - **Systems Integration** — REST APIs, SOAP services, third-party integrations
@@ -22,9 +22,9 @@ I work across software development, telecommunications systems, enterprise appli
 
 ---
 
-## Current Work
+💼 ## Current Work
 
-💼 **Systems & Applications Development**
+**Systems & Applications Development**
 
 Working on enterprise software development, systems integration, process automation, application maintenance, technical support and software delivery.
 
@@ -41,7 +41,7 @@ Key areas include:
 
 ---
 
-## Selected Public-Safe Work
+🎇 ## Public-Safe Work
 
 Below are areas I can demonstrate using synthetic, personal, open-source or public-safe examples.
 
@@ -61,7 +61,7 @@ Below are areas I can demonstrate using synthetic, personal, open-source or publ
 
 ---
 
-## Selected Engineering Experience
+ ## Engineering Experience
 
 I have contributed to software solutions covering areas such as:
 
