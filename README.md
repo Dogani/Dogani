@@ -1,4 +1,4 @@
-👷‍♂️👨‍💻 # Peter Dogani
+# 👷‍♂️👨‍💻 Peter Dogani
 
 **Professional Engineer | Software Engineer | Full-Stack Developer | Systems Integration Specialist**
 
@@ -9,7 +9,7 @@ I work across software development, telecommunications systems, enterprise appli
 
 ---
 
-🧘‍♂️ ## Focus
+## 🎯 Focus
 
 - **Software Engineering** — enterprise applications, backend systems, full-stack development
 - **Systems Integration** — REST APIs, SOAP services, third-party integrations
@@ -22,7 +22,7 @@ I work across software development, telecommunications systems, enterprise appli
 
 ---
 
-💼 ## Current Work
+## 💼 Current Work
 
 **Systems & Applications Development**
 
@@ -41,7 +41,7 @@ Key areas include:
 
 ---
 
-🎇 ## Public-Safe Work
+## 🎇 Public-Safe Work
 
 Below are areas I can demonstrate using synthetic, personal, open-source or public-safe examples.
 
@@ -61,7 +61,7 @@ Below are areas I can demonstrate using synthetic, personal, open-source or publ
 
 ---
 
- ## Engineering Experience
+ ## ⚙️ Engineering Experience
 
 I have contributed to software solutions covering areas such as:
 
@@ -80,7 +80,7 @@ I have contributed to software solutions covering areas such as:
 
 ---
 
-## Technology Stack
+## 💻 Technology Stack
 
 ### Languages
 `JavaScript` `C#` `Java` `SQL` `Python` `PHP`
@@ -105,7 +105,7 @@ I have contributed to software solutions covering areas such as:
 
 ---
 
-## Professional Recognition
+## 🕴️ Professional Recognition
 
 ### Outstanding Performance in System Development & Integration
 
@@ -141,7 +141,7 @@ Public repositories contain only personal, synthetic, open-source or publicly av
 
 ---
 
-## Connect
+## 🛜 Connect
 
 - **GitHub:**   [github.com/Dogani](https://github.com/Dogani)
 - **Email:**    doganipeter@gmail.com
