@@ -6,7 +6,6 @@ Software engineer focused on building reliable enterprise applications, backend 
 
 I work across software development, telecommunications systems, enterprise applications, payment integrations, databases, and system architecture.
 
-📍 Dar es Salaam, Tanzania
 
 ---
 
@@ -25,7 +24,7 @@ I work across software development, telecommunications systems, enterprise appli
 
 ## Current Work
 
-**Engineer I — Systems & Applications Development**
+** 💼 Systems & Applications Development**
 
 Working on enterprise software development, systems integration, process automation, application maintenance, technical support and software delivery.
 
@@ -146,6 +145,6 @@ Public repositories contain only personal, synthetic, open-source or publicly av
 
 - **GitHub:** [github.com/Dogani](https://github.com/Dogani)
 - **Email:** doganipeter@gmail.com
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** https://www.linkedin.com/in/peter-dogani-673883140/
 
 Open to conversations about software engineering, systems integration, enterprise platforms, telecommunications technology, APIs, databases and digital transformation.
