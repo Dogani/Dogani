@@ -24,7 +24,7 @@ I work across software development, telecommunications systems, enterprise appli
 
 ## Current Work
 
-💼 ** Systems & Applications Development**
+💼 **Systems & Applications Development**
 
 Working on enterprise software development, systems integration, process automation, application maintenance, technical support and software delivery.
 
